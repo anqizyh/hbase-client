@@ -8,7 +8,7 @@
  * <author>      <time>      <version>    <desc>
  * 修改人姓名             修改时间            版本号                  描述
  */
-package com.suning.mpds.hbase.base;
+package com.sbsn.mmp.hbase.base;
 
 import java.util.List;
 

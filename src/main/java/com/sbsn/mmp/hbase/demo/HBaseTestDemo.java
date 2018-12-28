@@ -50,7 +50,7 @@ public class HBaseTestDemo {
     static {
         configuration = HBaseConfiguration.create();
         configuration.set("hbase.zookeeper.property.clientPort", "2015");
-        configuration.set("hbase.zookeeper.quorum", "namenode1-sit.cnsuning.com,namenode2-sit.cnsuning.com,slave01-sit.cnsuning.com");
+        configuration.set("hbase.zookeeper.quorum", "namenode1-sit.sbsn.com,namenode2-sit.sbsn.com,slave01-sit.sbsn.com");
         // configuration.set("hbase.master", "192.168.1.100:600000");
      
 

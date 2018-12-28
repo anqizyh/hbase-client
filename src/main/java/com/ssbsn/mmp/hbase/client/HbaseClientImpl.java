@@ -40,7 +40,6 @@ public class HbaseClientImpl implements HbaseClient {
     /**
      * /* (non-Javadoc)
      * 
-     * @see com.suning.mpds.hbase.client.HbaseClient#queryForObject(java.lang.String, java.lang.String, java.lang.Class)
      */
     @Override
     public <T> T queryForObject(String tableName, String rowKey, Class<T> requiredType) {
