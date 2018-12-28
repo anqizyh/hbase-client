@@ -1,0 +1,10 @@
+*.classpath
+*.settings
+*.project
+**/target/
+.DS_Store
+.checkstyle
+.classpath
+.gitingore
+.project
+.settings/
